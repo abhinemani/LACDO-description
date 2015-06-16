@@ -1,8 +1,8 @@
 # LACDO-description
 Los Angeles: Chief Data Officer
 Goals
-Make LA a platform for civic engagement through data
-Citizens: Drive the development and use of world-class digital interfaces for transparent, useful access to city data for citizens
+* Make LA a platform for civic engagement through data
+* * Citizens: Drive the development and use of world-class digital interfaces for transparent, useful access to city data for citizens
 Open Data Sets on the Open Data Portal
 Other data access sites: eg FOIA access, [Dept]-stat.lacity.gov sites
 Developers: Create a develop engagement program to support community app/tool development
